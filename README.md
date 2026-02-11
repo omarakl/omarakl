@@ -1,4 +1,4 @@
-Omar A. Akl
+# Omar A. Akl
 
 ## AI Engineer | Computer Vision Specialist | Generative AI Developer
 
