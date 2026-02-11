@@ -1,14 +1,10 @@
-# Hi there, I'm Omar A. Akl 👋
+Omar A. Akl
 
 ## AI Engineer | Computer Vision Specialist | Generative AI Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarakll)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.aakl@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarakl)
-
 ---
 
-## 🚀 About Me
+##  About Me
 
 AI & Computer Vision Engineer with strong experience in **Deep Learning**, **Computer Vision**, and **Generative AI**. I specialize in RAG systems, Agentic AI workflows, and multimodal AI applications, with hands-on experience deploying real-world AI systems using YOLO, LangChain, Ollama, FastAPI, and vector databases.
 
@@ -115,11 +111,6 @@ Real-time pothole detection system for autonomous vehicles and road maintenance.
 
 ---
 
-## 📊 GitHub Stats
-
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarakl&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarakl&layout=compact&theme=radical)
 
 ---
 
@@ -151,29 +142,9 @@ Real-time pothole detection system for autonomous vehicles and road maintenance.
 - **Edge AI**: Deploying AI models on embedded systems and mobile devices
 - **Production ML**: Scalable and efficient AI deployment strategies
 
----
-
-## 📫 How to Reach Me
-
-- 📧 Email: omar.aakl@hotmail.com
-- 💼 LinkedIn: [linkedin.com/in/omarakll](https://linkedin.com/in/omarakll)
-- 📱 Phone: +961 78813732
-
----
-
-## ⚡ Fun Facts
-
-- 🤖 I love working with both software AI and hardware (embedded systems)
-- 🌍 Multilingual engineering background (Lebanon & Turkey)
-- 🚀 Always exploring the latest in Generative AI and LLMs
-- 🎯 Believer in open-source and knowledge sharing
-
----
 
 <div align="center">
 
 ### "Building intelligent systems that make a difference" 🚀
-
-![Visitor Count](https://profile-counter.glitch.me/omarakl/count.svg)
 
 </div>
