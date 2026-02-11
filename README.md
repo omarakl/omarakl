@@ -29,7 +29,7 @@ AI & Computer Vision Engineer with strong experience in **Deep Learning**, **Com
 ### Generative AI & LLMs
 - **RAG Systems**: LangChain, LangGraph
 - **Vector Databases**: ChromaDB, FAISS
-- **LLM Integration**: OpenAI API, Ollama (Local LLMs)
+- **LLM Integration**: OpenAI API
 - **Agentic AI**: Multi-agent workflows, Tool calling
 
 ### Computer Vision
