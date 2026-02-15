@@ -34,7 +34,7 @@ AI & Computer Vision Engineer with strong experience in **Deep Learning**, **Com
 
 ### Computer Vision
 - **Object Detection**: YOLOv8, YOLOv11, YOLO26
-- **Neural Networks**: CNNs, MobileNet,ResBet50,Vision Transformers (ViT)
+- **Neural Networks**: CNNs, MobileNet, ResNet50 ,Vision Transformers (ViT)
 - **Transfer Learning**: Fine-tuning pre-trained models
 
 ### Frameworks & Tools
